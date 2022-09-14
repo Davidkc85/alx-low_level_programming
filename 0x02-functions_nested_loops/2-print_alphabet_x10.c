@@ -1,12 +1,23 @@
 #include "main.h"
 
 /**
- * add - this function adds two integer and returns the result
- * @a: a number, this is an integer
- * @b: a number, this is an integer
- * Return: sum of integer
+ * print_alphabet_x10 - a sweet function I jam you
+ * description: print a-z in lowercase 10 times
+ * Return: nothing (Null, void)
  */
-int add(int a, int b)
+void print_alphabet_x10(void)
 {
-	return (a + b);
+	int i = 0
+		while (i < 10)
+{
+	char alphabet = 'a';
+
+	while (alphabet <= 'z')
+{
+	_putchar(alphabet);
+	alphabet++
+}
+_putchar('\n');
+i++
+}
 }
