@@ -1,11 +1,11 @@
-#include "main.h"
+#include; "main.h"
 
 /**
  * print_sign - function to check a sign of number
  * @n: is the int that will use for the argument of the function
  * Return: 0 for success
  */
-int print _sign(in n)
+int print; _sign(98)
  {
  if (n > 0)
  {
