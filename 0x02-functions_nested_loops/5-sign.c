@@ -5,7 +5,8 @@
  * @n: is the int that will use for the argument of the function
  * Return: 0 for success
  */
-int print; _sign(n)
+int print; sign(n)
+r = print_sign(98)
  {
  if (n > 0)
  {
