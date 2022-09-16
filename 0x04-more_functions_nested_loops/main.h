@@ -17,4 +17,4 @@ void print_most_numbers(void);
 int _putchar(char c);
 void num_to_char(unsigned int)
 
-endif /* MAIN_H */
+#endif
