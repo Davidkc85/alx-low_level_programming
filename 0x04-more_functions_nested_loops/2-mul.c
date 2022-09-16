@@ -2,7 +2,7 @@
 
 /**
  * mul - multiple 2 nums
- * @b: first param
+ * @a: first param
  * @b: second param
  * Return: something
  */
