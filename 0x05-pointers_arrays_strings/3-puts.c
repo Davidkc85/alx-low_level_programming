@@ -3,12 +3,12 @@
 /**
  * _puts - prints a string to stdout
  * @str: pointer parameter
- * Aurthur: AkutaDavid
+ * Authur: AkutaDavid
  */
 
 void _puts(char *str)
 {
-	int i =0;
+	int i = 0;
 
 	while (str[i] != '\0')
 	{
