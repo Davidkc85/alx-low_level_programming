@@ -1,9 +1,9 @@
 #include "main.h"
-
 /**
  * _puts - prints a string to stdout
  * @str: pointer parameter
  * Authur: AkutaDavid
+ * Return: int i
  */
 
 void _puts(char *str)
