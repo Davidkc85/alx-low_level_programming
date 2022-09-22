@@ -1,9 +1,10 @@
+#include <stdio.h>
 #include "main.h"
+
 /**
  * _puts - prints a string to stdout
  * @str: pointer parameter
- * Authur: AkutaDavid
- * Return: int i
+ * Authur: AkutaDavi
  */
 
 void _puts(char *str)
@@ -14,9 +15,6 @@ void _puts(char *str)
 	{
 		_putchar(str[i]);
 		i++
-		{
-			_putchar('\n');
-		}
-	
-	return (i);
+	}
+	_putchar('\n');
 }
