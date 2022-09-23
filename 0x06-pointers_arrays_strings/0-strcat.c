@@ -2,6 +2,7 @@
 /**
  * _strcat - function that concatenates teo strings.
  * @dest: pointer to destination string.
+ * @scr: pointer to source string.
  *
  * Return: pointerto destination string.
  */
