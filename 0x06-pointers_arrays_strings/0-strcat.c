@@ -7,12 +7,12 @@
  */
 char *_strcat(char *dest, char *scr)
 {
-	int length, j; /* j will hold the lenght of the source */
+	int length, j; /* j will hold the length of the source */
 
 	length = 0;
 	while (dest[length] != '\0')
 		{
-			length = ++;
+			length++;
 		}
 	for (j = 0; scr[j] != '\0'; j++, length++)
 	{
